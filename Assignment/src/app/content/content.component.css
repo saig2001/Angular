@@ -1,0 +1,83 @@
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100vh;
+    background-color: #2dcc70;
+}
+
+.image {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 23px;
+    left: 95px;
+ }
+
+
+.left{
+    position: absolute;
+    top: 22px;
+    left: 130px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-left {
+    position: absolute;
+    top: 100px;
+    left: 90px;
+    font-size: 35px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ .txt1{
+    position: absolute;
+    top: 460px;
+    left: 160px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+}
+
+.txt2{
+    position: absolute;
+    top: 460px;
+    left: 560px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+}
+
+.txt3{
+    position: absolute;
+    top: 455px;
+    left: 970px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+}
+
+.txt4 {
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    font-size: 25px;
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: #16223c ;
+}
