@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "price": 999,
+      "image": "iphone.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clinique Moisture Surge",
+      "price": 39,
+      "image": "makeupkit1.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 3,
+      "name": "Dumbell",
+      "price": 150,
+      "image": "gym3.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 4,
+      "name": "The Alchemist",
+      "price": 10,
+      "image": "harry.jpg",
+      "type": "books"
+    },
+    {
+      "id": 5,
+      "name": "Fresh Strawberries",
+      "price": 5,
+      "image": "fire.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 179,
+      "image": "laptop.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 7,
+      "name": "L'Oreal Paris Voluminous Mascara",
+      "price": 9,
+      "image": "makeupkit.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 8,
+      "name": "Yoga Mat",
+      "price": 30,
+      "image": "gym2.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 9,
+      "name": "To Kill a Mockingbird",
+      "price": 12,
+      "image": "book2.jpg",
+      "type": "books"
+    },
+    {
+      "id": 10,
+      "name": "Sapota",
+      "price": 2,
+      "image": "sapota.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 11,
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "image": "sony.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 12,
+      "name": "Maybelline Instant Age Rewind Concealer",
+      "price": 8,
+      "image": "creame.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 13,
+      "name": "Thread mill",
+      "price": 15,
+      "image": "gym.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 14,
+      "name": "The Great Gatsby",
+      "price": 8,
+      "image": "book1.jpg",
+      "type":"books"
+	}
+	]
+}
